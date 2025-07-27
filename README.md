@@ -15,7 +15,7 @@ To use this, use following config in ESPHome
 external_components:
   source:
     type: git
-    url: https://github.com/karllinder/esphome-climate-mhi
+    url: https://github.com/RexS98/esphome-climate-mhi
 ```
 Then, add the climate config:
 
